@@ -6,7 +6,7 @@ title: INTEG 120 but better
 
 [[1. Overview of Course]]
 
-[[2. Design gap and problem definition]]
+[[2. Design Gap & Problem Definition]]
 
 [[3. Intervention Overview]]
 
