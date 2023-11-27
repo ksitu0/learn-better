@@ -1,15 +1,14 @@
+_3 deliverables in 1 package_
 
-- 3 deliverables in 1 package
+1. **PKM** (20%)
 
-- 1) PKM (20%)
-	- Students do not have to upload their vault, but they are asked questions about their PKM. The questions asked about the PKM would assess the current strengths and weaknesses of the student’s PKM system. Students would also assess them on the quality and quantity of their connections in the PKM. This section is entirely self-graded.
+   - graded by answers to reflective questions
 
-- 2) Participation (5%)  
-	- students would assess their own participation and attendance in the class
+2. **Participation** (5%)
 
-- 3) Self-reflection (5%)
-	- students would discuss the strategies they’ve learned from the course that they have attempted to implement into their lives. In addition, students would discuss any changes in perspective or revelations about their cognitive processes that they’ve experienced during the period of the course. 
+   - students assess their own participation and attendance in the class
 
-- Due days: Early October and mid-November
+3. **Self-reflection** (5%)
+   - on application of course content + personal revelations
 
-[[Creative deliverable]]
+Due days: Early October and mid-November
